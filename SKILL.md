@@ -1,11 +1,9 @@
 ---
 name: implementation-salvage-threshold
-description: Decide whether an outdated in-progress implementation is worth salvaging or should be reimplemented from the latest confirmed design and plan.
+description: When design or plans overtake work in progress, compare salvaging the implementation with rebuilding from the latest confirmed design and plan.
 ---
 
 # Implementation Salvage Threshold
-
-Compare salvaging an outdated in-progress implementation with reimplementing from the latest confirmed state.
 
 ## Apply when implementation falls behind
 
