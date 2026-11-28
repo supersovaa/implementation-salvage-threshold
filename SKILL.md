@@ -1,6 +1,6 @@
 ---
 name: implementation-salvage-threshold
-description: When changes to assumptions, design, or plans leave work in progress out of date, compare salvaging the implementation with rebuilding from the latest confirmed design and plan.
+description: Use when resuming, replanning, or assessing an implementation in progress. Evaluate whether existing work is still worth carrying forward.
 ---
 
 # Implementation Salvage Threshold
