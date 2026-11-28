@@ -1,6 +1,6 @@
 ---
 name: implementation-salvage-threshold
-description: When design or plans overtake work in progress, compare salvaging the implementation with rebuilding from the latest confirmed design and plan.
+description: When changes to assumptions, design, or plans leave work in progress out of date, compare salvaging the implementation with rebuilding from the latest confirmed design and plan.
 ---
 
 # Implementation Salvage Threshold
